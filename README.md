@@ -1,4 +1,4 @@
-Face Recognition based Attendance System using Machine Learning
+Face Recognition based Attendance System using Machine Learning --
 
 ABSTRACT:
 In the near future, face recognition-based attendance systems will be utilized in all places
